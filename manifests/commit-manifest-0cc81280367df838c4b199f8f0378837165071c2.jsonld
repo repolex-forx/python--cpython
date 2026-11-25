@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/python/cpython/commit/0cc81280367df838c4b199f8f0378837165071c2",
+  "@type": "git:Commit",
+  "git:hexsha": "0cc81280367df838c4b199f8f0378837165071c2",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/python/cpython"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/0cc81280367df838c4b199f8f0378837165071c2.nq.gz",
+      "repolex:graphFileSize": 1219387
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 88743584
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 710
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 233584
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-25T23:07:46.163502+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "v3.12.10"
+}
